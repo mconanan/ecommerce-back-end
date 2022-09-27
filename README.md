@@ -9,4 +9,4 @@ The Dotenv package was used so sensitve information did not need to be hardcoded
 As there is no front-end to this project, all routes were tested through insomnia.
 
 Link to repo: https://github.com/mconanan/ecommerce-back-end
-Link to screencastify: 
+Link to screencastify: https://drive.google.com/file/d/1bhpniPPRZDfsiaPw8vLaCqU4qCcd--BC/view
